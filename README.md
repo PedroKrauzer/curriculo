@@ -1,4 +1,4 @@
-:warning: [Click here for the english version]() :warning:
+:warning: [Click here for the english version](https://github.com/PedroKrauzer/curriculo/wiki/Resume) :warning:
 
 # Pedro Henrique Dorneles Krauzer da Rosa
 1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo/blob/main/README.md#informa%C3%A7%C3%B5es-de-contato)
