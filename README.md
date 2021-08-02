@@ -78,7 +78,6 @@
 :briefcase: ``Função: Estagiário de Suporte Técnico Remoto, Equipe N1``
 #### :pushpin: Atividades:
 - Atendimento de ligações para abertura de chamados;
-- Concessão de acessos para pastas de rede;
 - Criação de cadastros de usuários no Active Directory;
 - Atendimento de demandas via memorando e e-mail;
 - Treinamento de novos estagiários da equipe N1.
@@ -90,13 +89,11 @@
 - Controle de estoque do almoxarifado;
 - Cotação com diversos fornecedores;
 - Atividade externa em geral;
-- Distribuição de material aos setores.
 
 ### :office: Agosto/ 2013 – Junho/ 2014 – Exército Brasileiro
 :briefcase: ``Função: Soldado do Exército Brasileiro``
 #### :pushpin: Atividades:
 - Serviço de sentinela e segurança de instalações;
-- Experiência em almoxarifado, organização de estoque;
 - Instrução de prevenção e combate a incêndio e primeiros socorros;
 - Treinamento físico diário;
 - Cumprimento de missões e trabalho em equipe.
@@ -104,7 +101,6 @@
 ### :office: Setembro/2010 – Setembro/ 2011 – [Conselho Regional de Farmácias do RS](https://www.crfrs.org.br/)
 :briefcase: ``Função: Estagiário, Office Boy``
 #### :pushpin: Atividades:
-- Pagamento de guias bancárias;
 - Transporte de documentação;
 - Digitalização de arquivos financeiros;
 - Organização de recibos de pagamentos;
