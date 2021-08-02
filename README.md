@@ -62,7 +62,7 @@
 - Suporte via e-mail, ligação e também chatbot;
 - Plataforma JIRA para gerenciamento de protocolos;
 - Acessos em Telnet, SSH, e FTP nas diversas plataformas da operadora;
-- Gerenciamento de central telefônica digital iPBX;
+- Gerenciamento de central telefônica digital iPBX.
 
 ### :office: Junho/ 2020 – Abril/ 2021 – [One Telecom](https://www.onetelecom.net.br/)
 :briefcase: ``Função: Estagiário de Suporte Técnico e Atendimento ao Cliente, Equipe N1``
@@ -70,7 +70,7 @@
 - Suporte via e-mail, ligação e também chat bot;
 - Plataforma JIRA para gerenciamento de protocolos;
 - Coleta de evidências técnicas em primeiro nível;
-- Gerenciamento de central telefônica digital iPBX;
+- Gerenciamento de central telefônica digital iPBX.
 
 ### :office: Dezembro/ 2018 – Junho/ 2020 – [Canoas Tec](http://canoastec.rs.gov.br/site/)
 :briefcase: ``Função: Estagiário de Suporte Técnico Remoto, Equipe N1``
@@ -86,7 +86,7 @@
 - Compra de material de escritório, de higiene e de consumo;
 - Controle de estoque do almoxarifado;
 - Cotação com diversos fornecedores;
-- Atividade externa em geral;
+- Atividade externa em geral.
 
 ### :office: Agosto/ 2013 – Junho/ 2014 – Exército Brasileiro
 :briefcase: ``Função: Soldado do Exército Brasileiro``
