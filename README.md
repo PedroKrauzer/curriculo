@@ -56,7 +56,15 @@
 | Desenvolvimento de Baixo Nível | :heavy_check_mark: |                        |
 
 ## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
-### :office: Abril/ 2021 – Atualmente – [One Telecom](https://www.onetelecom.net.br/)
+### :office: Setembro/ 2021 – Atualmente – [Dataweb](https://dataweb.com.br/)
+:briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
+#### :pushpin: Atividades:
+- Suporte ao software de gestão empresarial e seus módulos;
+- Instalação, manutenção e atualização de sistemas e servidores;
+- Manipulação de chaves em bancos de dados locais e em nuvem;
+- Atendimento via acesso remoto, chamados, e-mails e ligação.
+
+### :office: Abril/ 2021 – Setembro/ 2021 – [One Telecom](https://www.onetelecom.net.br/)
 :briefcase: ``Função: Efetivo como Suporte Técnico de Internet e Telefonia, N1 Pleno``
 #### :pushpin: Atividades:
 - Suporte via e-mail, ligação e também chatbot;
