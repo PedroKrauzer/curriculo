@@ -56,13 +56,18 @@
 | Desenvolvimento de Baixo Nível | :heavy_check_mark: |                        |
 
 ## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
-### :office: Setembro/ 2021 – Atualmente – [Dataweb](https://dataweb.com.br/)
+### :office: Setembro/ 2022 – Atualmente – [Leef Tecnologia em Negócios](https://leef.com.br/)
 :briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
 #### :pushpin: Atividades:
-- Suporte ao software de gestão empresarial e seus módulos;
-- Instalação, manutenção e atualização de sistemas e servidores;
-- Manipulação de chaves em bancos de dados locais e em nuvem;
-- Atendimento via acesso remoto, chamados, e-mails e ligação.
+- Em progresso, ainda em treinamento;
+
+### :office: Setembro/ 2021 – Setembro/ 2022 – [Dataweb](https://dataweb.com.br/)
+:briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
+#### :pushpin: Atividades:
+- Instalação, manutenção e atualização do ERP em servidores em estações;
+- Manipulação de chaves e scripts em bancos de dados locais e em nuvem;
+- Atendimento via acesso remoto, chamados, e-mails, ligação e helpdesk;
+- Testes de software, atualização do changelog e documentação detalhada.
 
 ### :office: Abril/ 2021 – Setembro/ 2021 – [One Telecom](https://www.onetelecom.net.br/)
 :briefcase: ``Função: Efetivo como Suporte Técnico de Internet e Telefonia, N1 Pleno``
