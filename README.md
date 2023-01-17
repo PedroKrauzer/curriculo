@@ -22,7 +22,7 @@
 :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/pedro-krauzer-51103a101/) :globe_with_meridians: [Facebook](https://www.facebook.com/pedro.krauzer) :globe_with_meridians: [Instagram](https://www.instagram.com/kraauzer/?hl=pt-br)
 
 ## OBJETIVO
-Área de Tecnologia da Informação, desenvolvimento e infraestrutura.
+Análise de sistemas de tecnologia e desenvolvimento fullstack.
 
 ## PERFIL PESSOAL
 - Pró-atividade, responsabilidade, paixão pela área;
