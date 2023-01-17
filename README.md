@@ -7,8 +7,9 @@
 1. [Formação Acadêmica](https://github.com/PedroKrauzer/curriculo#forma%C3%A7%C3%A3o)
 1. [Conhecimento em Idiomas](https://github.com/PedroKrauzer/curriculo#idiomas)
 1. [Habilidades em Informática](https://github.com/PedroKrauzer/curriculo#inform%C3%A1tica)
-1. [Experiências Profissionais](https://github.com/PedroKrauzer/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
-1. [Atividades Complementares](https://github.com/PedroKrauzer/curriculo#atividades-complementares)
+2. [Posição Atual](https://github.com/PedroKrauzer/curriculo#heavy_dollar_sign-posi%C3%A7%C3%A3o-atual)
+3. [Experiências Profissionais](https://github.com/PedroKrauzer/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
+4. [Atividades Complementares](https://github.com/PedroKrauzer/curriculo#atividades-complementares)
 ---
 
 ## Informações de Contato
