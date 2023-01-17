@@ -55,14 +55,24 @@
 | Active Directory               |        |               | :heavy_check_mark: |
 | Desenvolvimento de Baixo Nível | :heavy_check_mark: |                        |
 
-## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
-### :office: Setembro/ 2022 – Atualmente – [Leef Tecnologia em Negócios](https://leef.com.br/)
-:briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
+## :heavy_dollar_sign: POSIÇÃO ATUAL
+### :office: Janeiro/ 2023 – [Sindus ANDRITZ](https://www.andritz.com/pulp-and-paper-en/locations/sindus-ltda-porto-alegre-brazil/sindus-ltda-porto-alegre-brazil)
+:briefcase: ``Posição: Assistente de Aplicação``
 #### :pushpin: Atividades:
-- Em progresso, ainda em treinamento;
+- Ainda em treinamento...
+
+## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
+### :office: Setembro/ 2022 – Janeiro/ 2023 – [Leef Tecnologia em Negócios](https://leef.com.br/)
+:briefcase: ``Posição: Suporte Técnico ao Sistema ERP Protheus``
+#### :pushpin: Atividades:
+- Análise de erros do Protheus;
+- Documentação de procedimentos executados;
+- Acesso em VPN e servidores;
+- Documentação de acessos;
+- Edição de arquivos de configuração.
 
 ### :office: Setembro/ 2021 – Setembro/ 2022 – [Dataweb](https://dataweb.com.br/)
-:briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
+:briefcase: ``Posição: Suporte Técnico Remoto para Sistemas em Informática``
 #### :pushpin: Atividades:
 - Instalação, manutenção e atualização do ERP em servidores em estações;
 - Manipulação de chaves e scripts em bancos de dados locais e em nuvem;
@@ -70,7 +80,7 @@
 - Testes de software, atualização do changelog e documentação detalhada.
 
 ### :office: Abril/ 2021 – Setembro/ 2021 – [One Telecom](https://www.onetelecom.net.br/)
-:briefcase: ``Função: Efetivo como Suporte Técnico de Internet e Telefonia, N1 Pleno``
+:briefcase: ``Posição: Efetivo como Suporte Técnico de Internet e Telefonia, N1 Pleno``
 #### :pushpin: Atividades:
 - Suporte via e-mail, ligação e também chatbot;
 - Plataforma JIRA para gerenciamento de protocolos;
@@ -78,7 +88,7 @@
 - Gerenciamento de central telefônica digital iPBX.
 
 ### :office: Junho/ 2020 – Abril/ 2021 – [One Telecom](https://www.onetelecom.net.br/)
-:briefcase: ``Função: Estagiário de Suporte Técnico e Atendimento ao Cliente, Equipe N1``
+:briefcase: ``Posição: Estagiário de Suporte Técnico e Atendimento ao Cliente, Equipe N1``
 #### :pushpin: Atividades:
 - Suporte via e-mail, ligação e também chat bot;
 - Plataforma JIRA para gerenciamento de protocolos;
@@ -86,7 +96,7 @@
 - Gerenciamento de central telefônica digital iPBX.
 
 ### :office: Dezembro/ 2018 – Junho/ 2020 – [Canoas Tec](http://canoastec.rs.gov.br/site/)
-:briefcase: ``Função: Estagiário de Suporte Técnico Remoto, Equipe N1``
+:briefcase: ``Posição: Estagiário de Suporte Técnico Remoto, Equipe N1``
 #### :pushpin: Atividades:
 - Atendimento de ligações para abertura de chamados;
 - Criação de cadastros de usuários no Active Directory;
@@ -94,7 +104,7 @@
 - Treinamento de novos estagiários da equipe N1.
 
 ### :office: Setembro/ 2014 – Setembro/ 2015 – [Sindilojas Porto Alegre](https://sindilojaspoa.com.br/)
-:briefcase: ``Função: Auxiliar Administrativo``
+:briefcase: ``Posição: Auxiliar Administrativo``
 #### :pushpin: Atividades:
 - Compra de material de escritório, de higiene e de consumo;
 - Controle de estoque do almoxarifado;
@@ -102,7 +112,7 @@
 - Atividade externa em geral.
 
 ### :office: Agosto/ 2013 – Junho/ 2014 – Exército Brasileiro
-:briefcase: ``Função: Soldado do Exército Brasileiro``
+:briefcase: ``Posição: Soldado do Exército Brasileiro``
 #### :pushpin: Atividades:
 - Serviço de sentinela e segurança de instalações;
 - Instrução de prevenção e combate a incêndio e primeiros socorros;
@@ -110,7 +120,7 @@
 - Cumprimento de missões e trabalho em equipe.
 
 ### :office: Setembro/2010 – Setembro/ 2011 – [Conselho Regional de Farmácias do RS](https://www.crfrs.org.br/)
-:briefcase: ``Função: Estagiário, Office Boy``
+:briefcase: ``Posição: Estagiário, Office Boy``
 #### :pushpin: Atividades:
 - Transporte de documentação;
 - Digitalização de arquivos financeiros;
@@ -119,7 +129,7 @@
 
 ## ATIVIDADES COMPLEMENTARES
 #### :fleur_de_lis: ``Movimento Escoteiro:`` participação no movimento escoteiro desde 2010.
-#### :musical_note: ``Experiência musical:`` participação em grupo musical, desempenhando shows para públicos pequenos.
+#### :musical_note: ``Experiência musical:`` participação em grupo musical, shows para públicos pequenos.
 #### :sos: ``Curso de socorrista:`` curso de capacitação em técnicas de primeiros socorros.
 
 [Retornar ao Topo](https://github.com/PedroKrauzer/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
