@@ -249,7 +249,7 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
         <ul><b>3. </b>Organização de estoque;</ul>
         <ul><b>4. </b>Prevenção e combate a incêndio;</ul>
         <ul><b>5. </b>Treinamento físico diário;</ul>
-        <ul><b>6. </b>Cumprimento de missões;</ul>
+        <ul><b>6. </b>Cumprimento de missões.</ul>
       </td>
       <td>
         <p>
