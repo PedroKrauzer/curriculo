@@ -161,7 +161,7 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
         </p>
         <!-- Atividades da One Telecom -->
         <ul><b>1. </b>Suporte via e-mail, ligação e chatbot;</ul>
-        <ul><b>2. </b>Plataforma JIRA para de tickets;</ul>
+        <ul><b>2. </b>Plataforma JIRA para tickets;</ul>
         <ul><b>3. </b>Coleta de evidências técnicas;</ul>
         <ul><b>4. </b>Acessos em Telnet, SSH, e FTP;</ul>
         <ul><b>5. </b>Provisionamento de ONUs Huawei;</ul>
@@ -176,7 +176,7 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
         </p>
         <!-- Atividades da One Telecom -->
         <ul><b>1. </b>Suporte via e-mail, ligação e chat bot;</ul>
-        <ul><b>2. </b>Plataforma JIRA para de tickets;</ul>
+        <ul><b>2. </b>Plataforma JIRA para tickets;</ul>
         <ul><b>3. </b>Coleta de evidências técnicas;</ul>
         <ul><b>4. </b>Acesso remoto em ONUs;</ul>
         <ul><b>5. </b>Acessos em Telnet via Putty;</ul>
