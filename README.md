@@ -1,14 +1,14 @@
 :warning: [Click here for the english version](https://github.com/KrauzerPH94/curriculo/wiki/Resume) :warning:
 
 # Pedro Henrique Dorneles Krauzer da Rosa
-1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo#informa%C3%A7%C3%B5es-de-contato)
-1. [Objetivo de Carreira](https://github.com/KrauzerPH94/curriculo#objetivo)
-1. [Perfil Pessoal](https://github.com/KrauzerPH94/curriculo#perfil-pessoal)
-1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo#forma%C3%A7%C3%A3o)
-1. [Conhecimento em Idiomas](https://github.com/KrauzerPH94/curriculo#idiomas)
-1. [Habilidades em Informática](https://github.com/KrauzerPH94/curriculo#inform%C3%A1tica)
-2. [Posição Atual](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-posi%C3%A7%C3%A3o-atual)
-3. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
+1. [Informações de Contato](https://github.com/PedroKrauzer/curriculo#informa%C3%A7%C3%B5es-de-contato)
+1. [Objetivo de Carreira](https://github.com/PedroKrauzer/curriculo#objetivo)
+1. [Perfil Pessoal](https://github.com/PedroKrauzer/curriculo#perfil-pessoal)
+1. [Formação Acadêmica](https://github.com/PedroKrauzer/curriculo#forma%C3%A7%C3%A3o)
+1. [Conhecimento em Idiomas](https://github.com/PedroKrauzer/curriculo#idiomas)
+1. [Habilidades em Informática](https://github.com/PedroKrauzer/curriculo#inform%C3%A1tica)
+2. [Posição Atual](https://github.com/PedroKrauzer/curriculo#heavy_dollar_sign-posi%C3%A7%C3%A3o-atual)
+3. [Experiências Profissionais](https://github.com/PedroKrauzer/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
 ---
 
 ## Informações de Contato
@@ -266,4 +266,4 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
    </tr>
 </table>
 
-[Retornar ao Topo](https://github.com/KrauzerPH94/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
+[Retornar ao Topo](https://github.com/PedroKrauzer/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
