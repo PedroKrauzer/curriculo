@@ -34,7 +34,7 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
 
 | Curso | Localização | Instituição | Situação |
 | ----- | ----------- | ----------- | -------- |
-| :mortar_board: Análise e Desenvolvimento de Sistemas | :earth_americas: [Sapucaia/ RS](https://bit.ly/3rHedUV) | :school: [Anhanguera Educational](https://www.anhanguera.com/) | :white_check_mark: Conluído em 2022 |
+| :mortar_board: Análise e Desenvolvimento de Sistemas | :earth_americas: [Sapucaia/ RS](https://bit.ly/3rHedUV) | :school: [Anhanguera Educational](https://www.anhanguera.com/) | :white_check_mark: conluído em 2022 |
 | :mortar_board: Análise e Desenvolvimento de Sistemas | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Instituto Federal do RS](https://ifrs.edu.br/) | :x: não concluído |
 | :mortar_board: Técnico em Informática | :earth_americas: [Porto Alegre/ RS](https://bit.ly/3rIyh9J) | :school: [Faculdade de Tecnologia](https://www.ftec.com.br/porto-alegre/) | :white_check_mark: concluído em 2015 |
 | :mortar_board: Ensino Médio | :earth_americas: [Porto Alegre/ RS](https://bit.ly/3rIyh9J) | :school: Colégio Estadual Dom João Becker | :white_check_mark: concluído em 2011 |
