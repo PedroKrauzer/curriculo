@@ -126,7 +126,7 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
         <ul><b>3. </b>Acesso em VPN e servidores;</ul>
         <ul><b>4. </b>Documentação de acessos;</ul>
         <ul><b>5. </b>Aplicação de patchs de correção;</ul>
-        <ul><b>6. </b>Edição de arquivos de configuração;</ul>
+        <ul><b>6. </b>Edição de arquivos de configuração.</ul>
       </td>
       <td>
         <p>
