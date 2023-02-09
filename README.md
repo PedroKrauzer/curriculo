@@ -21,6 +21,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-krauzer-51103a101/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/kraauzer/?hl=pt-br)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/pedro.krauzer)
+[<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/krauzer)
 
 ## OBJETIVO
 Análise e desenvolvimento de sistemas e aplicativos web e mobile.
