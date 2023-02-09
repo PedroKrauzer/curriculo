@@ -55,28 +55,34 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
    </tr>
    <tr>
       <td> <!-- Básico -->
-         <ul>* JavaScript;</ul>
-         <ul>* Programação OOP;</ul>
-         <ul>* Código estruturado;</ul>
-         <ul>* Back-end;</ul>
-         <ul>* Front-end;</ul>
-         <ul>* Mobile.</ul>
+         <ul>
+            <li>JavaScript;</li>
+            <li>Programação OOP;</li>
+            <li>Código estruturado;</li>
+            <li>Back-end;</li>
+            <li>Front-end;</li>
+            <li>Mobile.</li>
+         </ul>
       </td>
       <td> <!-- Intermediário -->
-         <ul>* Redes TCP/IP;</ul>
-         <ul>* Edição gráfica;</ul>
-         <ul>* GIMP;</ul>
-         <ul>* Git / GitHub;</ul>
-         <ul>* Banco de dados SQL;</ul>
-         <ul>* HTML / CSS.</ul>
+         <ul>
+            <li>Redes TCP/IP;</li>
+            <li>Edição gráfica;</li>
+            <li>GIMP;</li>
+            <li>Git / GitHub;</li>
+            <li>Banco de dados SQL;</li>
+            <li>HTML / CSS.</li>
+         </ul>
       </td>
       <td> <!-- Avançado -->
-         <ul>* Pacote Office;</ul>
-         <ul>* Hardware;</ul>
-         <ul>* IDEs de código;</ul>
-         <ul>* Ativos de rede;</ul>
-         <ul>* Acesso remoto;</ul>
-         <ul>* Documentação.</ul>
+         <ul>
+            <li>Pacote Office;</li>
+            <li>Hardware;</li>
+            <li>IDEs de código;</li>
+            <li>Ativos de rede;</li>
+            <li>Acesso remoto;</li>
+            <li>Documentação.</li>
+         </ul>
       </td>
    </tr>
 </table>
@@ -97,7 +103,9 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>⏳ Período:</b> Dez/2022 - Atualmente<br><br>
             <b>📌 Atividades:</b>
          </p>
-         <ul>1. Ainda em treinamento...</ul>
+         <ol>
+            <li>Ainda em treinamento...</li>
+         </ol>
       </td>
    </tr>
 </table>
@@ -121,12 +129,14 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da Leef -->
-        <ul><b>1. </b>Análise de erros do Protheus;</ul>
-        <ul><b>2. </b>Documentação de procedimentos;</ul>
-        <ul><b>3. </b>Acesso em VPN e servidores;</ul>
-        <ul><b>4. </b>Documentação de acessos;</ul>
-        <ul><b>5. </b>Aplicação de patchs de correção;</ul>
-        <ul><b>6. </b>Edição de arquivos de configuração.</ul>
+        <ol>
+            <li>Análise de erros do Protheus;</li>
+            <li>Documentação de procedimentos;</li>
+            <li>Acesso em VPN e servidores;</li>
+            <li>Documentação de acessos;</li>
+            <li>Aplicação de patchs de correção;</li>
+            <li>Edição de arquivos de configuração.</li>
+        </ol>
       </td>
       <td>
         <p>
@@ -135,11 +145,13 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da Dataweb -->
-        <ul><b>1. </b>Instalação e manutenção do ERP;</ul>
-        <ul><b>2. </b>Manipulação de chaves em DBs;</ul>
-        <ul><b>3. </b>Acesso remoto, chamados, e-mails;</ul>
-        <ul><b>4. </b>Testes de software;</ul>
-        <ul><b>5. </b>Atualização do changelog.</ul>
+        <ol>
+            <li>Instalação e manutenção do ERP;</li>
+            <li>Manipulação de chaves em DBs;</li>
+            <li>Acesso remoto, chamados, e-mails;</li>
+            <li>Testes de software;</li>
+            <li>Atualização do changelog.</li>
+        </ol>
       </td>
    </tr>
 
@@ -160,13 +172,15 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da One Telecom -->
-        <ul><b>1. </b>Suporte via e-mail, ligação e chatbot;</ul>
-        <ul><b>2. </b>Plataforma JIRA para tickets;</ul>
-        <ul><b>3. </b>Coleta de evidências técnicas;</ul>
-        <ul><b>4. </b>Acessos em Telnet, SSH, e FTP;</ul>
-        <ul><b>5. </b>Provisionamento de ONUs Huawei;</ul>
-        <ul><b>6. </b>Gerenciamento de central digital iPBX;</ul>
-        <ul><b>7. </b>Plataforma WinSCP, WinBox e PuTTy.</ul>
+        <ol>
+            <li>Suporte via e-mail, ligação e chatbot;</li>
+            <li>Plataforma JIRA para tickets;</li>
+            <li>Coleta de evidências técnicas;</li>
+            <li>Acessos em Telnet, SSH, e FTP;</li>
+            <li>Provisionamento de ONUs Huawei;</li>
+            <li>Gerenciamento de central digital iPBX;</li>
+            <li>Plataforma WinSCP, WinBox e PuTTy.</li>
+        </ol>
       </td>
       <td>
         <p><br>
@@ -175,14 +189,16 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da One Telecom -->
-        <ul><b>1. </b>Suporte via e-mail, ligação e chat bot;</ul>
-        <ul><b>2. </b>Plataforma JIRA para tickets;</ul>
-        <ul><b>3. </b>Coleta de evidências técnicas;</ul>
-        <ul><b>4. </b>Acesso remoto em ONUs;</ul>
-        <ul><b>5. </b>Acessos em Telnet via Putty;</ul>
-        <ul><b>6. </b>Acesso em Telnet com scripts em OLTs;</ul>
-        <ul><b>7. </b>Ggerenciamento de ONUs Huawei;</ul>
-        <ul><b>8. </b>Gerenciamento de central digital iPBX.</ul>
+        <ol>
+            <li>Suporte via e-mail, ligação e chat bot;</li>
+            <li>Plataforma JIRA para tickets;</li>
+            <li>Coleta de evidências técnicas;</li>
+            <li>Acesso remoto em ONUs;</li>
+            <li>Acessos em Telnet via Putty;</li>
+            <li>Acesso em Telnet com scripts em OLTs;</li>
+            <li>Gerenciamento de ONUs Huawei;</li>
+            <li>Gerenciamento de central digital iPBX.</li>
+        </ol>
         </p>
       </td>
    </tr>
@@ -204,13 +220,15 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da CanoasTec -->
-        <ul><b>1. </b>Suporte via ligação e chamados;</ul>
-        <ul><b>2. </b>Suporte com acesso remoto;</ul>
-        <ul><b>3. </b>Resets de senhas no Active Directory;</ul>
-        <ul><b>4. </b>Acessos para pastas de rede;</ul>
-        <ul><b>5. </b>Criação de cadastros de usuários;</ul>
-        <ul><b>6. </b>Demandas via memorando e e-mail;</ul>
-        <ul><b>7. </b>Treinamento de estagiários N1.</ul>
+        <ol>
+            <li>Suporte via ligação e chamados;</li>
+            <li>Suporte com acesso remoto;</li>
+            <li>Resets de senhas no Active Directory;</li>
+            <li>Acessos para pastas de rede;</li>
+            <li>Criação de cadastros de usuários;</li>
+            <li>Demandas via memorando e e-mail;</li>
+            <li>Treinamento de estagiários N1.</li>
+        </ol>
       </td>
       <td>
         <p>
@@ -219,11 +237,13 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da Sindilojas -->
-        <ul><b>1. </b>Compra de material de escritório;</ul>
-        <ul><b>2. </b>Controle de estoque do almoxarifado;</ul>
-        <ul><b>3. </b>Cotação com diversos fornecedores;</ul>
-        <ul><b>4. </b>Atividade externa em geral;</ul>
-        <ul><b>5. </b>Distribuição de material aos setores.</ul>
+        <ol>
+            <li>Compra de material de escritório;</li>
+            <li>Controle de estoque do almoxarifado;</li>
+            <li>Cotação com diversos fornecedores;</li>
+            <li>Atividade externa em geral;</li>
+            <li>.Distribuição de material aos setores</li>
+        </ol>
       </td>
    </tr>
    
@@ -244,12 +264,14 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da Exército -->
-        <ul><b>1. </b>Serviço de sentinela e segurança;</ul>
-        <ul><b>2. </b>Experiência em almoxarifado;</ul>
-        <ul><b>3. </b>Organização de estoque;</ul>
-        <ul><b>4. </b>Prevenção e combate a incêndio;</ul>
-        <ul><b>5. </b>Treinamento físico diário;</ul>
-        <ul><b>6. </b>Cumprimento de missões.</ul>
+        <ol>
+            <li>Serviço de sentinela e segurança;</li>
+            <li>Experiência em almoxarifado;</li>
+            <li>Organização de estoque;</li>
+            <li>Prevenção e combate a incêndio;</li>
+            <li>Treinamento físico diário;</li>
+            <li>Cumprimento de missões.</li>
+        </ol>
       </td>
       <td>
         <p>
@@ -258,10 +280,12 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
             <b>📌 Atividades:</b>
         </p>
         <!-- Atividades da Conselho Regional -->
-        <ul><b>1. </b>Transporte de documentação;</ul>
-        <ul><b>2. </b>Digitalização de arquivos financeiros;</ul>
-        <ul><b>3. </b>Organização de recibos de pagamentos;</ul>
-        <ul><b>4. </b>Rotinas administrativas e financeiras.</ul>
+        <ol>
+            <li>Transporte de documentação;</li>
+            <li>Digitalização de arquivos financeiros;</li>
+            <li>Organização de recibos de pagamentos;</li>
+            <li>Rotinas administrativas e financeiras.</li>
+        </ol>
       </td>
    </tr>
 </table>
