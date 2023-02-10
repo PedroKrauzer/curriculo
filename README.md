@@ -33,262 +33,255 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
 
 ## FORMAÇÃO
 
-| Curso | Localização | Instituição | Situação |
-| ----- | ----------- | ----------- | -------- |
-| :mortar_board: Análise e Desenvolvimento de Sistemas | :earth_americas: [Sapucaia/ RS](https://bit.ly/3rHedUV) | :school: [Anhanguera Educational](https://www.anhanguera.com/) | :white_check_mark: conluído em 2022 |
-| :mortar_board: Análise e Desenvolvimento de Sistemas | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Instituto Federal do RS](https://ifrs.edu.br/) | :x: não concluído |
-| :mortar_board: Técnico em Informática | :earth_americas: [Porto Alegre/ RS](https://bit.ly/3rIyh9J) | :school: [Faculdade de Tecnologia](https://www.ftec.com.br/porto-alegre/) | :white_check_mark: concluído em 2015 |
-| :mortar_board: Ensino Médio | :earth_americas: [Porto Alegre/ RS](https://bit.ly/3rIyh9J) | :school: Colégio Estadual Dom João Becker | :white_check_mark: concluído em 2011 |
+<table>
+    <tr>
+        <td> <!-- Anhanguera Educational -->
+            <h4>🎓 Análise e Desenvolvimento de Sistemas</h4>
+            <ul>
+                <li>🌎 <b>Localização: </b><a href="https://bit.ly/3rHedUV">Sapucaia - RS</a></li>
+                <li>🏫 <b>Instituição: </b><a href="https://www.anhanguera.com/">Anhanguera Educational</a></li>
+                <li>✅ <b>Situação: </b>conluído em 2022</li>
+            </ul>
+        </td>
+        <td> <!-- Instituto Federal do RS -->
+            <h4>🎓 Análise e Desenvolvimento de Sistemas</h4>
+            <ul>
+                <li>🌎 <b>Localização: </b><a href="https://bit.ly/2VmU7mI">Canoas - RS</a></li>
+                <li>🏫 <b>Instituição: </b><a href="https://ifrs.edu.br/">Instituto Federal do RS</a></li>
+                <li>❌ <b>Situação: </b>não concluído</li>
+            </ul>
+        </td>
+    <tr>
+        <td> <!-- FTEC Faculdade de Tecnologia -->
+            <h4>🎓 Técnico em Informática</h4>
+            <ul>
+                <li>🌎 <b>Localização: </b><a href="https://bit.ly/3rIyh9J">Porto Alegre - RS</a></li>
+                <li>🏫 <b>Instituição: </b><a href="https://www.ftec.com.br/porto-alegre/">FTEC Faculdade de Tecnologia</a></li>
+                <li>✅ <b>Situação: </b>concluído em 2015</li>
+            </ul>
+        </td>
+        <td> <!-- Colégio Dom João Becker -->
+            <h4>🎓 Ensino Médio</h4>
+            <ul>
+                <li>🌎 <b>Localização: </b><a href="https://bit.ly/3rIyh9J">Porto Alegre - RS</a></li>
+                <li>🏫 <b>Instituição: </b>Colégio Dom João Becker</li>
+                <li>✅ <b>Situação: </b>concluído em 2011</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ## IDIOMAS
-| Idioma | Conversação | Escrita | Leitura | 
-| ------ | ----------- | ------- | ------- |
-| Inglês | Avançado | Avançado | Avançado |
-| Português | Nativo | Nativo | Nativo |
+* Conversação: nativo;
+* Escrita: nativo;
+* Leitura: nativo.
+
+#### Inglês
+* Conversação: avançado;
+* Escrita: avançado;
+* Leitura: avançado.
 
 ## INFORMÁTICA
 
-<table border="0">
-   <tr>
-      <td><b style="font-size:20px">Básico</b></td>
-      <td><b style="font-size:20px">Intermediário</b></td>
-      <td><b style="font-size:20px">Avançado</b></td>
-   </tr>
-   <tr>
-      <td> <!-- Básico -->
-         <ul>
-            <li>JavaScript;</li>
-            <li>Programação OOP;</li>
-            <li>Código estruturado;</li>
-            <li>Back-end;</li>
-            <li>Front-end;</li>
-            <li>Mobile.</li>
-         </ul>
-      </td>
-      <td> <!-- Intermediário -->
-         <ul>
-            <li>Redes TCP/IP;</li>
-            <li>Edição gráfica;</li>
-            <li>GIMP;</li>
-            <li>Git / GitHub;</li>
-            <li>Banco de dados SQL;</li>
-            <li>HTML / CSS.</li>
-         </ul>
-      </td>
-      <td> <!-- Avançado -->
-         <ul>
-            <li>Pacote Office;</li>
-            <li>Hardware;</li>
-            <li>IDEs de código;</li>
-            <li>Ativos de rede;</li>
-            <li>Acesso remoto;</li>
-            <li>Documentação.</li>
-         </ul>
-      </td>
-   </tr>
+<table>
+    <tr>
+        <td> <!-- Básico -->
+            <h4>Básico</h4>
+            <ul>
+                <li>JavaScript;</li>
+                <li>Programação OOP;</li>
+                <li>Código estruturado;</li>
+                <li>Back-end;</li>
+                <li>Front-end;</li>
+                <li>Mobile.</li>
+            </ul>
+        </td>
+        <td> <!-- Intermediário -->
+            <h4>Intermediário</h4>
+            <ul>
+                <li>Redes TCP/IP;</li>
+                <li>Edição gráfica;</li>
+                <li>GIMP;</li>
+                <li>Git / GitHub;</li>
+                <li>Banco de dados SQL;</li>
+                <li>HTML / CSS.</li>
+            </ul>
+        </td>
+        <td> <!-- Avançado -->
+            <h4>Avançado</h4>
+            <ul>
+                <li>Pacote Office;</li>
+                <li>Hardware;</li>
+                <li>IDEs de código;</li>
+                <li>Ativos de rede;</li>
+                <li>Acesso remoto;</li>
+                <li>Documentação.</li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 ## :heavy_dollar_sign: POSIÇÃO ATUAL
 
-<!-- Empresa(s): Sindus ANDRITZ -->
-<table border="0">
-   <tr>
-      <td><b style="font-size:20px">
-         <a href="https://www.andritz.com/pulp-and-paper-en/locations/sindus-ltda-porto-alegre-brazil/sindus-ltda-porto-alegre-brazil">🏢 Sindus ANDRITZ</a>
-      </b></td>
-   </tr>
-   <tr>
-      <td>
-         <p>
-            <b>💼 Posição:</b> Assistente de Aplicação<br>
-            <b>⏳ Período:</b> Dez/2022 - Atualmente<br><br>
-            <b>📌 Atividades:</b>
-         </p>
-         <ol>
-            <li>Ainda em treinamento...</li>
-         </ol>
-      </td>
-   </tr>
+<table>
+    <tr>
+        <td> <!-- Sindus ANDRITZ -->
+            <h4>🏢 <a href="https://www.andritz.com/group-en">Sindus ANDRITZ</a></h4>
+            <p>
+                <b>💼 Posição:</b> Assistente de Aplicação<br>
+                <b>⏳ Período:</b> Dez/2022 - Atualmente<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Ainda em treinamento...</li>
+            </ol>
+        </td>
+    </tr>
 </table>
 
 ## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
 
-<table border="0">
-   <!-- Empresa(s): Leef e Dataweb -->
-   <tr>
-      <td><b style="font-size:20px">
-         <a href="https://leef.com.br/">🏢 Leef Tecnologia</a>
-      </b></td>
-      <td><b style="font-size:20px">
-      <a href="https://dataweb.com.br/">🏢 Dataweb Tecnologia</a></b></td>
-   </tr>
-   <tr>
-      <td>
-        <p><br>
-            <b>💼 Posição:</b> Suporte ao ERP Protheus<br>
-            <b>⏳ Período:</b> Set/2022 – Jan/2023<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da Leef -->
-        <ol>
-            <li>Análise de erros do Protheus;</li>
-            <li>Documentação de procedimentos;</li>
-            <li>Acesso em VPN e servidores;</li>
-            <li>Documentação de acessos;</li>
-            <li>Aplicação de patchs de correção;</li>
-            <li>Edição de arquivos de configuração.</li>
-        </ol>
-      </td>
-      <td>
-        <p>
-            <b>💼 Posição:</b> Suporte em ERP<br>
-            <b>⏳ Período:</b> Set/2021 – Set/2022<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da Dataweb -->
-        <ol>
-            <li>Instalação e manutenção do ERP;</li>
-            <li>Manipulação de chaves em DBs;</li>
-            <li>Acesso remoto, chamados, e-mails;</li>
-            <li>Testes de software;</li>
-            <li>Atualização do changelog.</li>
-        </ol>
-      </td>
-   </tr>
-
-   <!-- Empresa(s): One Telecom e One Telecom -->
-   <tr>
-      <td><b style="font-size:20px">
-        <a href="https://www.onetelecom.net.br/">🏢 One Telecom</a>
-      </b></td>
-      <td><b style="font-size:20px">
-        <a href="https://www.onetelecom.net.br/">🏢 One Telecom</a>
-      </b></td>
-   </tr>
-   <tr>
-      <td>
-        <p>
-            <b>💼 Posição:</b> Suporte N1 Pleno<br>
-            <b>⏳ Período:</b> Abr/2021 – Set/2021<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da One Telecom -->
-        <ol>
-            <li>Suporte via e-mail, ligação e chatbot;</li>
-            <li>Plataforma JIRA para tickets;</li>
-            <li>Coleta de evidências técnicas;</li>
-            <li>Acessos em Telnet, SSH, e FTP;</li>
-            <li>Provisionamento de ONUs Huawei;</li>
-            <li>Gerenciamento de central digital iPBX;</li>
-            <li>Plataforma WinSCP, WinBox e PuTTy.</li>
-        </ol>
-      </td>
-      <td>
-        <p><br>
-            <b>💼 Posição:</b> Estágio em Suporte N1<br>
-            <b>⏳ Período:</b> Jun/2020 – Abr/2021<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da One Telecom -->
-        <ol>
-            <li>Suporte via e-mail, ligação e chat bot;</li>
-            <li>Plataforma JIRA para tickets;</li>
-            <li>Coleta de evidências técnicas;</li>
-            <li>Acesso remoto em ONUs;</li>
-            <li>Acessos em Telnet via Putty;</li>
-            <li>Acesso em Telnet com scripts em OLTs;</li>
-            <li>Gerenciamento de ONUs Huawei;</li>
-            <li>Gerenciamento de central digital iPBX.</li>
-        </ol>
-        </p>
-      </td>
-   </tr>
-
-   <!-- Empresa(s): CanoasTec e Sindilojas Porto Alegre -->
-   <tr>
-      <td><b style="font-size:20px">
-        <a href="http://canoastec.rs.gov.br/site/">🏢 CanoasTec</a>
-      </b></td>
-      <td><b style="font-size:20px">
-        <a href="https://sindilojaspoa.com.br/">🏢 Sindilojas Porto Alegre</a>
-      </b></td>
-   </tr>
-   <tr>
-      <td>
-        <p><br>
-            <b>💼 Posição:</b> Estágio em Suporte N1<br>
-            <b>⏳ Período:</b> Dec/2018 – Jun/2020<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da CanoasTec -->
-        <ol>
-            <li>Suporte via ligação e chamados;</li>
-            <li>Suporte com acesso remoto;</li>
-            <li>Resets de senhas no Active Directory;</li>
-            <li>Acessos para pastas de rede;</li>
-            <li>Criação de cadastros de usuários;</li>
-            <li>Demandas via memorando e e-mail;</li>
-            <li>Treinamento de estagiários N1.</li>
-        </ol>
-      </td>
-      <td>
-        <p>
-            <b>💼 Posição:</b> Auxiliar Administrativo<br>
-            <b>⏳ Período:</b> Set/2014 – Set/2015<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da Sindilojas -->
-        <ol>
-            <li>Compra de material de escritório;</li>
-            <li>Controle de estoque do almoxarifado;</li>
-            <li>Cotação com diversos fornecedores;</li>
-            <li>Atividade externa em geral;</li>
-            <li>.Distribuição de material aos setores</li>
-        </ol>
-      </td>
-   </tr>
-   
-   <!-- Empresa(s): Exército Brasileiro e Conselho Regional de Farmácias do RS -->
-   <tr>
-      <td><b style="font-size:20px">
-         <a href="https://www.eb.mil.br/">🏢 Exército Brasileiro</a>
-      </b></td>
-      <td><b style="font-size:20px">
-        <a href="https://www.crfrs.org.br/">🏢 Conselho Regional de Farmácias do RS</a>
-      </b></td>
-   </tr>
-   <tr>
-      <td>
-        <p><br>
-            <b>💼 Posição:</b> Soldado Efetivo Variável<br>
-            <b>⏳ Período:</b> Ago/2013 – Jun/2014<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da Exército -->
-        <ol>
-            <li>Serviço de sentinela e segurança;</li>
-            <li>Experiência em almoxarifado;</li>
-            <li>Organização de estoque;</li>
-            <li>Prevenção e combate a incêndio;</li>
-            <li>Treinamento físico diário;</li>
-            <li>Cumprimento de missões.</li>
-        </ol>
-      </td>
-      <td>
-        <p>
-            <b>💼 Posição:</b> Estagiário, Office Boy<br>
-            <b>⏳ Período:</b> Set/2010 – Set/2011<br><br>
-            <b>📌 Atividades:</b>
-        </p>
-        <!-- Atividades da Conselho Regional -->
-        <ol>
-            <li>Transporte de documentação;</li>
-            <li>Digitalização de arquivos financeiros;</li>
-            <li>Organização de recibos de pagamentos;</li>
-            <li>Rotinas administrativas e financeiras.</li>
-        </ol>
-      </td>
-   </tr>
+<table>
+    <tr>
+        <td> <!-- Leef Tecnologia -->
+            <h4>🏢 <a href="https://leef.com.br/">Leef Tecnologia</a></h4>
+            <p>
+                <b>💼 Posição:</b> Suporte ao ERP Protheus<br>
+                <b>⏳ Período:</b> Set/2022 – Jan/2023<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Análise de erros do Protheus;</li>
+                <li>Documentação de procedimentos;</li>
+                <li>Acesso em VPN e servidores;</li>
+                <li>Documentação de acessos;</li>
+                <li>Aplicação de patchs de correção;</li>
+                <li>Edição de arquivos de configuração.</li>
+            </ol>
+        </td>
+        <td> <!-- Dataweb Tecnologia -->
+            <h4>🏢 <a href="https://dataweb.com.br/">Dataweb Tecnologia</a></h4>
+            <p>
+                <b>💼 Posição:</b> Suporte em ERP<br>
+                <b>⏳ Período:</b> Set/2021 – Set/2022<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Instalação e manutenção do ERP;</li>
+                <li>Manipulação de chaves em DBs;</li>
+                <li>Acesso remoto, chamados, e-mails;</li>
+                <li>Testes de software;</li>
+                <li>Atualização do changelog.</li>
+            </ol>
+        </td>
+    </tr>
+    <!-- Fim da linha -->
+    <tr>
+        <td> <!-- One Telecom -->
+            <h4>🏢 <a href="https://www.onetelecom.net.br/">One Telecom</a></h4>
+            <p>
+                <b>💼 Posição:</b> Suporte N1 Pleno<br>
+                <b>⏳ Período:</b> Abr/2021 – Set/2021<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Suporte via e-mail, ligação e chatbot;</li>
+                <li>Plataforma JIRA para tickets;</li>
+                <li>Coleta de evidências técnicas;</li>
+                <li>Acessos em Telnet, SSH, e FTP;</li>
+                <li>Provisionamento de ONUs Huawei;</li>
+                <li>Gerenciamento de central digital iPBX;</li>
+                <li>Plataforma WinSCP, WinBox e PuTTy.</li>
+            </ol>
+        </td>
+        <td> <!-- One Telecom -->
+            <h4>🏢 <a href="https://www.onetelecom.net.br/">One Telecom</a></h4>
+            <p>
+                <b>💼 Posição:</b> Estágio em Suporte N1<br>
+                <b>⏳ Período:</b> Jun/2020 – Abr/2021<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Suporte via e-mail, ligação e chat bot;</li>
+                <li>Plataforma JIRA para tickets;</li>
+                <li>Coleta de evidências técnicas;</li>
+                <li>Acesso remoto em ONUs;</li>
+                <li>Acessos em Telnet via Putty;</li>
+                <li>Acesso em Telnet com scripts em OLTs;</li>
+                <li>Gerenciamento de ONUs Huawei;</li>
+                <li>Gerenciamento de central digital iPBX.</li>
+            </ol>
+            </p>
+        </td>
+    </tr>
+    <!-- Fim da linha -->
+    <tr>
+        <td> <!-- CanoasTec -->
+            <h4>🏢 <a href="http://canoastec.rs.gov.br/site/">CanoasTec</a></h4>
+            <p>
+                <b>💼 Posição:</b> Estágio em Suporte N1<br>
+                <b>⏳ Período:</b> Dec/2018 – Jun/2020<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Suporte via ligação e chamados;</li>
+                <li>Suporte com acesso remoto;</li>
+                <li>Resets de senhas no Active Directory;</li>
+                <li>Acessos para pastas de rede;</li>
+                <li>Criação de cadastros de usuários;</li>
+                <li>Demandas via memorando e e-mail;</li>
+                <li>Treinamento de estagiários N1.</li>
+            </ol>
+        </td>
+        <td> <!-- Sindilojas Porto Alegre -->
+            <h4>🏢 <a href="https://sindilojaspoa.com.br/">Sindilojas Porto Alegre</a></h4>
+            <p>
+                <b>💼 Posição:</b> Auxiliar Administrativo<br>
+                <b>⏳ Período:</b> Set/2014 – Set/2015<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Compra de material de escritório;</li>
+                <li>Controle de estoque do almoxarifado;</li>
+                <li>Cotação com diversos fornecedores;</li>
+                <li>Atividade externa em geral;</li>
+                <li>.Distribuição de material aos setores</li>
+            </ol>
+        </td>
+    </tr>
+    <!-- Fim da linha -->
+    <tr>
+        <td> <!-- Exército Brasileiro -->
+            <h4>🏢 <a href="https://www.eb.mil.br/">Exército Brasileiro</a></h4>
+            <p>
+                <b>💼 Posição:</b> Soldado Efetivo Variável<br>
+                <b>⏳ Período:</b> Ago/2013 – Jun/2014<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Serviço de sentinela e segurança;</li>
+                <li>Experiência em almoxarifado;</li>
+                <li>Organização de estoque;</li>
+                <li>Prevenção e combate a incêndio;</li>
+                <li>Treinamento físico diário;</li>
+                <li>Cumprimento de missões.</li>
+            </ol>
+        </td>
+        <td> <!-- Conselho Regional de Farmácias do RS -->
+            <h4>🏢 <a href="https://www.crfrs.org.br/">Conselho Regional de Farmácias do RS</a></h4>
+            <p>
+                <b>💼 Posição:</b> Estagiário, Office Boy<br>
+                <b>⏳ Período:</b> Set/2010 – Set/2011<br><br>
+                <b>📌 Atividades:</b>
+            </p>
+            <ol>
+                <li>Transporte de documentação;</li>
+                <li>Digitalização de arquivos financeiros;</li>
+                <li>Organização de recibos de pagamentos;</li>
+                <li>Rotinas administrativas e financeiras.</li>
+            </ol>
+        </td>
+    </tr>
 </table>
 
 [Retornar ao Topo](https://github.com/PedroKrauzer/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
