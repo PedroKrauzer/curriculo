@@ -72,6 +72,8 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
 </table>
 
 ## IDIOMAS
+
+#### Português
 * Conversação: nativo;
 * Escrita: nativo;
 * Leitura: nativo.
